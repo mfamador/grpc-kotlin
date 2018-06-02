@@ -1,2 +1,2 @@
-# grpc-kotlin-gradle
+# sRPC Kotlin test
 gRPC Kotlin test
